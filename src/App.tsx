@@ -2,7 +2,7 @@ import './App.css'
 import axios from 'axios'
 
 const instance = axios.create({
-    baseURL: '/api/',
+    baseURL: 'https://hr-ai-bot-code-dev-at-345-preparatory-steps.dev-ai-banana.com/api/',
 })
     // /api/company/vacancy/4/history_bulk
 
